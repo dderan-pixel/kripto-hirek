@@ -1,0 +1,85 @@
+{
+  "lastUpdated": "2026-06-07",
+  "articles": [
+    {
+      "id": 1,
+      "title": "Bitcoin 60 000 dollár alá esett – Rekord ETF-kivonás rázza a piacot",
+      "summary": "A Bitcoin ára a héten 60 000 dollár közelébe süllyedt, miközben a spot Bitcoin ETF-ekből 13 egymást követő napon összesen 4,4 milliárd dollárt vontak ki – ez történelmi rekord.",
+      "category": "bitcoin",
+      "date": "2026-06-07",
+      "readTime": "4 perc",
+      "trending": true,
+      "content": "A Bitcoin árfolyama az elmúlt hetekben jelentős nyomás alá került: a vezető kriptovaluta ára 60 000 dollár közelébe esett, ami közel 17%-os visszaesést jelent az elmúlt 7 napban.\n\nA legaggasztóbb fejlemény a spot Bitcoin ETF-piacról érkezett: a befektetők 13 egymást követő napon összesen 4,4 milliárd dollárt vontak ki.\n\nMichael Saylor szerint az esés mögött egy átmeneti tőkerotáció áll: a befektetők a mesterséges intelligencia infrastruktúra-építési hullámba csatornázzák pénzüket.\n\nAnalitikusok szerint a 58 000–60 000 dolláros szint kulcsfontosságú támasz.",
+      "tags": [
+        "bitcoin",
+        "etf",
+        "ár",
+        "intézményi"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ethereum 1 700 dollár alatt – Mi okozza az esést?",
+      "summary": "Az Ethereum ára februári mélypontok közelébe süllyedt, miután az ETH ETF-ekből 14 napon 700 millió dollárt vontak ki.",
+      "category": "ethereum",
+      "date": "2026-06-07",
+      "readTime": "3 perc",
+      "trending": true,
+      "content": "Az Ethereum árfolyama 1 700 dollár alá esett. Az ETH spot ETF-ekből 14 egymást követő napon 700 millió dollárt vontak ki.\n\nA fejlesztői aktivitás nem csökkent: az Ethereum következő nagy frissítése, amely az L2-hálózatok adatkapacitását növeli, már tesztnetes fázisban van.\n\nRövid távú kilátás: az 1 600 dolláros szint erős támaszt jelent.",
+      "tags": [
+        "ethereum",
+        "etf",
+        "defi",
+        "ár"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "WLD token 20%-ot zuhant – Worldcoin körül növekvő kételyek",
+      "summary": "A Worldcoin token 20%-ot esett egyetlen nap alatt, miután Arthur Hayes nyilvánosan eladta pozícióját.",
+      "category": "altcoin",
+      "date": "2026-06-07",
+      "readTime": "3 perc",
+      "trending": false,
+      "content": "A Worldcoin (WLD) token árfolyama egyetlen kereskedési napon 20%-ot zuhant, miután Arthur Hayes, a BitMEX társalapítója bejelentette, hogy eladta teljes WLD-kitettségét.\n\nHayes a SpaceX részvények gyenge teljesítményét jelölte meg döntése okaként.\n\nRövid távon további nyomás várható.",
+      "tags": [
+        "worldcoin",
+        "wld",
+        "altcoin",
+        "hayes"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Melyik kripto tőzsdét érdemes használni 2026-ban?",
+      "summary": "Binance, Bybit, KuCoin, OKX összehasonlítás magyaroknak – melyik a legjobb választás?",
+      "category": "oktatás",
+      "date": "2026-06-07",
+      "readTime": "6 perc",
+      "trending": false,
+      "content": "A kriptotőzsdék közötti különbségek hosszú távon dollárszázakat jelenthetnek.\n\n**Binance** – A világ legnagyobb tőzsdéje, 0,1% díjjal. Referral linken regisztrálva extra kedvezményeket kaphatsz.\n\n**Bybit** – Különösen határidős kereskedésben erős, alacsony díjakkal.\n\n**KuCoin** – Kisebb altcoinok esetén a legtöbb párt itt találod.\n\n**OKX** – Beépített Web3 tárcával, DeFi-t és centralizált kereskedést egy helyen.",
+      "tags": [
+        "tőzsde",
+        "binance",
+        "bybit",
+        "oktatás"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "DeFi-visszaesés: A zárolt értéke 38 milliárd dollárra csökkent",
+      "summary": "A DeFi szektor TVL-je 48 milliárd dollárról 38 milliárdra csökkent a piaci visszaesés közepette.",
+      "category": "defi",
+      "date": "2026-06-07",
+      "readTime": "3 perc",
+      "trending": false,
+      "content": "A DeFi-szektor összesített zárolt értéke (TVL) 38 milliárd dollárra csökkent – közel 20%-os visszaesés egy hónap alatt.\n\nA legellenállóbb protokollok: Aave, Uniswap és Curve stabilan tartotta felhasználói bázisát.\n\nA következő hetekben kulcskérdés: visszatér-e a kockázatvállalási kedv a stabil érmék magas hozamaira.",
+      "tags": [
+        "defi",
+        "tvl",
+        "aave",
+        "uniswap"
+      ]
+    }
+  ]
+}
